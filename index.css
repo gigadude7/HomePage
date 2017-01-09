@@ -1,0 +1,50 @@
+.websiteHeader {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 45px; 
+    color: #fbfffe; 
+    text-align: center; 
+}
+
+html {
+    height: 100%; 
+    background: radial-gradient( #36311f ,#1C1C1C); 
+}
+.headerHolder {
+    background-color: #faa916; 
+    width: 85%; 
+    height: 5%; 
+    margin-top: 6%; 
+    margin-left: 7.5%; 
+    border-radius: 5px; 
+}
+
+.Message {
+    background-color: #41932A; 
+    height:600px; 
+    width: 600px; 
+    text-align: center; 
+    vertical-align: middle; 
+    color: #fbfffe; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 45px; 
+    position:absolute; 
+    top:20%; 
+    left:20%; 
+
+}
+
+.NavBar {
+    width: 100%;
+    height: 55px; 
+    background-color: #faa916; 
+    text-align: left; 
+    color: #fbfffe; 
+    font-size: 45px; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+body {
+    margin-left: -6px; 
+    margin-top:-6px; 
+    margin-right: -6px; 
+}
