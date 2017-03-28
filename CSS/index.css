@@ -3,17 +3,6 @@ html {
     background: radial-gradient( #36311f ,#1C1C1C); 
 }
 
-.NavBar {
-    width: 100%;
-    height: 55px;
-    background-color: #faa916;
-    text-align: left;
-    color: #fbfffe;
-    font-size: 45px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-
 body {
     margin-left: -6px;
     margin-top:-6px;
@@ -33,17 +22,24 @@ body {
     margin-top: 30px;
 }
 
+li {
+    list-style-type: none;
+}
+
 .Message > span {
     display: block;
     padding: 5px;
 }
 
 #Title {
-    color: black;
+    color: #1C1C1C;
+    text-decoration: underline;
 }
 
-a > span {
+
+ a {
     color: #fbfffe;
     text-decoration: none;
+
 }
 
